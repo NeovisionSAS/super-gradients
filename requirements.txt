@@ -6,7 +6,7 @@ Deprecated>=1.2.11
 scipy>=1.6.1
 matplotlib>=3.3.4
 psutil>=5.8.0
-tensorboard>=2.4.1
+tensorboard>=2.0.0
 # pinned because of a crash in Snyk
 setuptools>=65.5.1,<67.0.0
 torchvision>=0.10.0
