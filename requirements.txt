@@ -10,7 +10,6 @@ tensorboard>=2.0.0
 # pinned because of a crash in Snyk
 setuptools>=65.5.1,<67.0.0
 torchvision>=0.10.0
-torchmetrics==0.8
 hydra-core>=1.2.0
 onnxruntime>=1.15.0
 # onnx 1.16.0 introduce IR 10 which is not yet supported by onnx runtime & graphsurgeon
